@@ -1,2 +1,3 @@
-# uikit-archives-widget
-A custom archives widget styled for UIkit accordion navigation.
+# UIkit Archives Widget
+
+A custom WordPress posts archives widget styled for UIkit accordion navigation.
